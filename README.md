@@ -22,6 +22,7 @@ A curated list of the best chess tools, websites and resources on the internet â
 - [Chess Next Move - Free Chess Move Calculator](https://chessnewmove.com/) - Free online tool that finds the best move in any chess position with instant engine analysis.
 - [Lichess Analysis Board](https://lichess.org/analysis) - Free analysis board powered by Stockfish running in your browser.
 - [Chess.com Analysis](https://www.chess.com/analysis) - Analyze your games with engine evaluations and mistake review.
+- [ScanChess](https://scanchess.com) - Turns board photos, screenshots or handwritten scoresheets into editable FEN positions and PGN games, with Stockfish analysis.
 
 ## Chess Engines
 
